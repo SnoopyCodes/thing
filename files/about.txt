@@ -1,0 +1,5 @@
+this is just me trying to make a folder
+if it works i will make 2 other folders:
+program, for the java files
+and
+assets, for the assets
